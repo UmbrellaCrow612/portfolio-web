@@ -31,7 +31,7 @@ const Hero = () => {
                   download="cv"
                   className="secondary__btn"
                 >
-                  CV
+                  Download CV
                 </a>
               </div>
             </div>

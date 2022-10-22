@@ -21,11 +21,13 @@ const About = () => {
             <h3 className="mt-4">I&apos;m here</h3>
             <h3 className="mb-4">to help your next project</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt
-              neque asperiores temporibus quo saepe odio, esse labore libero
-              obcaecati quidem explicabo blanditiis deleniti ex vitae ratione
-              ullam fugiat dicta eum sint officiis porro illum quia. Error quam
-              cum excepturi beatae.
+              I&apos;ve spent the past years working across different areas of
+              digital design, front-end development, backend development,
+              marketing site pages and app UI/UX. These days my time is spent
+              researching, designing, prototyping, and coding. I also help
+              programmers get started with their careers. Out of the office
+              you&apos;ll find me working out, playing chess, and
+              finding the meaning of life.
             </p>
 
             <div className=" d-flex align-items-center gap-5">
@@ -41,7 +43,7 @@ const About = () => {
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  Search A Lot
+                  Teamwork
                 </h6>
               </div>
 
@@ -50,14 +52,14 @@ const About = () => {
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  Creative Idea
+                  Collaboration
                 </h6>
 
                 <h6 className=" d-flex align-items-center gap-2 mt-3 fw-normal">
                   <span className={`${classes.about__icon}`}>
                     <i className="ri-checkbox-circle-line"></i>
                   </span>
-                  High Quality
+                  Adaptive learner
                 </h6>
               </div>
             </div>
@@ -68,7 +70,9 @@ const About = () => {
               </button>
 
               <button className="secondary__btn">
-                <Link href="#">Download CV</Link>
+                <a href="/cv.pdf" download="cv" className="secondary__btn">
+                 Download CV
+                </a>
               </button>
             </div>
           </Col>
