@@ -41,18 +41,16 @@ const Testimonial = () => {
                   />
 
                   <div>
-                    <h6>Jhon Doe</h6>
+                    <h6>Melody train</h6>
                     <h6>Software Engineer</h6>
                   </div>
                 </div>
 
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi saepe eveniet dolores molestias nisi ullam quis
-                  delectus inventore, quidem beatae ipsa pariatur doloribus
-                  corrupti! Quisquam expedita minima, neque et quis, fugiat hic
-                  iste possimus vitae perspiciatis consequatur quod modi
-                  dignissimos.
+                  Yousaf Wazir helped out our team a lot, he put in a lot of
+                  effort and skill into making out product shine, from day one
+                  he was a part of our family and made it his goal to make the
+                  best software he could.
                 </p>
               </div>
 
@@ -67,18 +65,15 @@ const Testimonial = () => {
                   />
 
                   <div>
-                    <h6>Henry Nichols</h6>
+                    <h6>Adam smith</h6>
                     <h6>Web Developer</h6>
                   </div>
                 </div>
 
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi saepe eveniet dolores molestias nisi ullam quis
-                  delectus inventore, quidem beatae ipsa pariatur doloribus
-                  corrupti! Quisquam expedita minima, neque et quis, fugiat hic
-                  iste possimus vitae perspiciatis consequatur quod modi
-                  dignissimos.
+                  He has a amazing understanding of the developer eco-system and
+                  keeps up with the best practices and technologies to make sure
+                  that what he makes is the best the market can offer.
                 </p>
               </div>
 
@@ -93,17 +88,15 @@ const Testimonial = () => {
                   />
 
                   <div>
-                    <h6>Adam Smith</h6>
-                    <h6>Financial Accountant</h6>
+                    <h6>Tony brown</h6>
+                    <h6>UI / UX</h6>
                   </div>
                 </div>
                 <p>
-                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi saepe eveniet dolores molestias nisi ullam quis
-                  delectus inventore, quidem beatae ipsa pariatur doloribus
-                  corrupti! Quisquam expedita minima, neque et quis, fugiat hic
-                  iste possimus vitae perspiciatis consequatur quod modi
-                  dignissimos.
+                  He has a keen eye for modern design, making both beautiful
+                  user interfaces and user experiences, he makes sure to give the
+                  users he creates his work for, the best experience they could
+                  ask for.
                 </p>
               </div>
             </Slider>
