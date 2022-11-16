@@ -27,7 +27,7 @@ const Hero = () => {
                 </button>
 
                 <a
-                  href="/cv.pdf"
+                  href="/cv.docx"
                   download="cv"
                   className="secondary__btn"
                 >
